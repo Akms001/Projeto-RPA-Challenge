@@ -1,2 +1,2 @@
 # Projeto-RPA-Challenge
-Preenchendo formulário lendo dados de um arquivo Excel.
+Preenchendo formulário do site [RPA Challenge](https://rpachallenge.com/) a partir de um arquivo em Excel (challenges.xlsx) usando Selenium.
